@@ -1,7 +1,3 @@
-# Puedes acceder a la página a través del siguiente enlace para conocer su funcionamiento
-
-https://encriptador-de-texto-osogzwmjv-oscars-projects-e67b01e7.vercel.app/
-
 # Encriptador de Texto
 
 Este es un proyecto de encriptador y desencriptador de texto creado con HTML, CSS y JavaScript. La aplicación permite transformar vocales en sus respectivas representaciones encriptadas según las siguientes reglas:
@@ -15,6 +11,8 @@ Este es un proyecto de encriptador y desencriptador de texto creado con HTML, CS
 ## Descripción
 
 El proyecto cuenta con una interfaz sencilla que permite al usuario ingresar texto y encriptarlo o desencriptarlo según las reglas anteriores. También incluye la opción de copiar el texto encriptado o desencriptado al portapapeles.
+
+Puedes acceder a la página a través del siguiente enlace para conocer su funcionamiento: https://encriptador-de-texto-osogzwmjv-oscars-projects-e67b01e7.vercel.app/
 
 ## Estructura del Proyecto
 
